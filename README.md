@@ -8,4 +8,4 @@ Repositorio principal para proyectos de AWS, scripting, Python y desarrollo web.
 - [Web](/web): Proyectos frontend/backend.
 
 ## 📫 Contacto
-¡Conéctame en [LinkedIn]([https://www.linkedin.com/in/josegana](https://www.linkedin.com/in/josegana/))!
+¡Contáctame en [LinkedIn](https://www.linkedin.com/in/josegana/)!
