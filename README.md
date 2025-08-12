@@ -1,1 +1,1 @@
-## Script, terraform y más
+## Scripts, terraform y más
